@@ -1,4 +1,4 @@
-# OpenClaw-EC2-Amazon-Bedrock-AIAWS EC2 + VMware SSH Setup
+# OpenClaw-EC2-Amazon-Bedrock-AI---AWS EC2 + VMware SSH Setup
 1. Set up VMware Shared Folder
 
 We had the AWS private key on Windows:
