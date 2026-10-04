@@ -1,3 +1,5 @@
+<img width="990" height="582" alt="Screenshot 2026-10-04 094452 openclaw installed" src="https://github.com/user-attachments/assets/2c310d02-14c9-4429-a2a9-71f3f45308fc" />
+<img width="871" height="202" alt="Screenshot 2026-10-04 101743" src="https://github.com/user-attachments/assets/1bfcdf5e-94ec-463e-874a-e0f017a601ec" />
 # OpenClaw-EC2-Amazon-Bedrock-AI---AWS EC2 + VMware SSH Setup
 1. Set up VMware Shared Folder
 
